@@ -1,0 +1,78 @@
+Log started at 2024-10-21 21:04:06
+Scanning directory: EXE Files to Check
+
+
+Analyzing EXE Files to Check\Cyberpunk2077.exe...
+  Section .text: Entropy = 6.55
+  Section .rdata: Entropy = 5.12
+  Section .data: Entropy = 4.28
+  Section .pdata: Entropy = 6.79
+  Section _RDATA: Entropy = 5.51
+  Section .rsrc: Entropy = 6.88
+  Section .reloc: Entropy = 5.45
+  No obfuscation detected in EXE Files to Check\Cyberpunk2077.exe.
+  Status: Non dangerous
+
+Analyzing EXE Files to Check\DP.exe...
+  Section .text: Entropy = 6.55
+  Section .rdata: Entropy = 4.87
+  Section .data: Entropy = 4.91
+  Section .version: Entropy = 0.08
+  Section .rsrc: Entropy = 5.25
+  Section .reloc: Entropy = 5.00
+  Section .flt: Entropy = 5.35
+  No obfuscation detected in EXE Files to Check\DP.exe.
+  Status: Non dangerous
+
+Analyzing EXE Files to Check\eldenring.exe...
+  Section .text: Entropy = 6.58
+  Section .interpr: Entropy = 6.46
+  Section .rdata: Entropy = 5.12
+  Section .data: Entropy = 4.71
+  Section .pdata: Entropy = 7.13
+  Section .tls: Entropy = 4.99
+  Section .gfids: Entropy = 4.13
+  Section .rsrc: Entropy = 7.43
+  Section .reloc: Entropy = 5.48
+  Section .idata: Entropy = 4.73
+  Section .text: Entropy = 7.43
+  No obfuscation detected in EXE Files to Check\eldenring.exe.
+  Status: Non dangerous
+
+Analyzing EXE Files to Check\launcher.exe...
+  Section .text: Entropy = 6.50
+  Section .rdata: Entropy = 5.15
+  Section .data: Entropy = 2.42
+  Section .pdata: Entropy = 5.81
+  Section memcpy_: Entropy = 1.88
+  Section _RDATA: Entropy = 4.19
+  Section .rsrc: Entropy = 3.52
+  Section .reloc: Entropy = 5.02
+  No obfuscation detected in EXE Files to Check\launcher.exe.
+  Status: Non dangerous
+
+Analyzing EXE Files to Check\RiotClientServices.exe...
+  Section .text: Entropy = 6.48
+  Section .rdata: Entropy = 6.61
+  Section .data: Entropy = 3.81
+  Section .pdata: Entropy = 6.55
+  Section CPADinfo: Entropy = 0.22
+  Section .rsrc: Entropy = 8.00
+  Section .reloc: Entropy = 5.47
+  Suspicious sections in EXE Files to Check\RiotClientServices.exe: .rsrc
+  Status: Dangerous
+
+Analyzing EXE Files to Check\TLauncher.exe...
+  Section .text: Entropy = 6.25
+  Section .data: Entropy = 0.31
+  Section .rdata: Entropy = 5.56
+  Section .eh_fram: Entropy = 4.88
+  Section .bss: Entropy = 0.00
+  Section .idata: Entropy = 4.92
+  Section .CRT: Entropy = 0.12
+  Section .tls: Entropy = 0.20
+  Section .rsrc: Entropy = 5.51
+  No obfuscation detected in EXE Files to Check\TLauncher.exe.
+  Status: Non dangerous
+
+Log ended at 2024-10-21 21:04:45
