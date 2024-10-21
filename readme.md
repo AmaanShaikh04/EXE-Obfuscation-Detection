@@ -39,7 +39,7 @@ This tool helps analyze `.exe` files for signs of obfuscation by calculating the
 3. Run the script using the following command:
 
     ```
-   python your_script_name.py
+   python obfuscation_detector.py
     ```
 
 4. The tool will scan the specified directory and create a log file in the `Logs` folder.
