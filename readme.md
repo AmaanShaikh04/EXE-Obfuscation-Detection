@@ -26,7 +26,9 @@ This tool helps analyze `.exe` files for signs of obfuscation by calculating the
 2. Make sure you have Python installed on your system (Python 3.x recommended).
 3. Install the required `pefile` library, if you haven't already:
 
+    ```
    pip install pefile
+    ```
 
 4. Place your `.exe` files in the folder named `EXE Files to Check`, located in the same directory as the script.
 
@@ -36,7 +38,9 @@ This tool helps analyze `.exe` files for signs of obfuscation by calculating the
 2. Navigate to the directory containing the script.
 3. Run the script using the following command:
 
+    ```
    python your_script_name.py
+    ```
 
 4. The tool will scan the specified directory and create a log file in the `Logs` folder.
 
