@@ -30,7 +30,7 @@ This tool helps analyze `.exe` files for signs of obfuscation by calculating the
    pip install pefile
     ```
 
-4. Place your `.exe` files in the folder named `EXE Files to Check`, located in the same directory as the script.
+4. Create a folder named `EXE Files to Check` in the same directory as the script and place your `.exe` files in it
 
 ## Usage
 
